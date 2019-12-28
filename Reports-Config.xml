@@ -14,10 +14,10 @@
         <protocol>https</protocol>
         
         <!-- title of the document -->
-        <documentTitle>Cyber Success - Selenium Automation</documentTitle>
+        <documentTitle>Prashant Kalamkar - Selenium Automation</documentTitle>
         
         <!-- report name - displayed at top-nav -->
-        <reportName>Cyber Success - Automation Execution Report</reportName>
+        <reportName>Prashant Kalamkar- Automation Execution Report</reportName>
         
         <!-- report headline - displayed at top-nav, after reportHeadline -->
         <reportHeadline>Selenium Framework Execution Report</reportHeadline>
