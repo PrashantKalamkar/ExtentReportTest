@@ -64,6 +64,7 @@ public class Demo
 		eTest.log(LogStatus.INFO, "close the browswer for Facebook/test application");
 		driver.quit();
 		
+		eTest.log(LogStatus.INFO, "end of the Test Application");
 		eReport.endTest(eTest);
 		eReport.flush();
 			
