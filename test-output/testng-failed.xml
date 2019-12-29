@@ -5,7 +5,8 @@
     <classes>
       <class name="extent.reports.Demo">
         <methods>
-          <include name="demoTest"/>
+          <include name="getLoginpageTitle"/>
+          <include name="postTestExe"/>
         </methods>
       </class> <!-- extent.reports.Demo -->
     </classes>
